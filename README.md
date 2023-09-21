@@ -4,7 +4,7 @@ Welcome to my GitHub repository! This is my dedicated space to share my exciting
 
 ## About Me 👋
 
-I'm a passionate Computer Science student at COMSATS UNIVERSITY LAHORE 🎓, constantly inspired by the limitless possibilities of technology. My journey in this ever-evolving field is marked by a profound curiosity and an unwavering desire to make an impact through technology.
+I'm a passionate Computer Science student at COMSATS UNIVERSITY LAHORE 🎓, constantly inspired by the limitless possibilities of technology. My journey in this ever-evolving field is marked by a   profound curiosity and an unwavering desire to make an impact through technology.
 
 ## University Life 🏫
 
