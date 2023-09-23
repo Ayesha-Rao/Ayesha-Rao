@@ -1,4 +1,4 @@
-### Hi there 👋🎓💻
+Hi there 👋🎓💻
 
 Welcome to my GitHub repository! This is my dedicated space to share my exciting journey as a Computer Science student. Dive into a world of algorithms, code, and innovation with me! 🚀
 
